@@ -1,0 +1,5 @@
+# Copy this file to playit.conf and adjust the agent name if needed.
+# Never put a Playit secret or token in this file.
+PLAYIT_NAME="AethelxStoneMC"
+PLAYIT_PORT="25565"
+PLAYIT_PROTOCOL="tcp"

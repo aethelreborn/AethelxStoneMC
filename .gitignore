@@ -2,6 +2,11 @@
 .logs/
 saves/
 
+# Playit binaries, runtime state, logs, and credentials
+.playit/*
+!.playit/.gitkeep
+playit.conf
+
 # OS junk
 .DS_Store
 Thumbs.deploy
