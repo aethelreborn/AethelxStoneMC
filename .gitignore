@@ -1,0 +1,7 @@
+# Logs and world saves — generated at runtime, don't commit
+.logs/
+saves/
+
+# OS junk
+.DS_Store
+Thumbs.deploy
